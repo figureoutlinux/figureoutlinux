@@ -17,10 +17,6 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
-<div style="display: inline_block">
-  <img align="center" alt="nodejs" src="https://starchart.cc/{figureoutlinux}/{repo}.svg" />
-</div><br/>
-
 Tirando dúvidas de recens usuários windows que pretendem mudar para distros Linux de acordo com seu propósito.
 
 ### Alguns vídeos do Youtube:
