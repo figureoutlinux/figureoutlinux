@@ -25,3 +25,5 @@ Tirando dúvidas de recens usuários windows que pretendem mudar para distros Li
 - [🔵 Kali Linux Proxychains seu IP no Anonimato em modo Dynamic Chain](https://www.youtube.com/watch?v=iTIPxQaIyNI)<br/>
 - [🔵 ProxyChains em modo Random Chain No meu Mint](https://www.youtube.com/watch?v=Tmh1ycpxLJE&t=360s)<br/>
 - [🔵 Kodachi Linux XFCE Versão 8.9.1](https://www.youtube.com/watch?v=9QHT7JYAHvU)<br/>
+
+[![Alt text](https://img.youtube.com/vi/BLcjcOU6tEM/0.jpg)](https://www.youtube.com/watch?v=BLcjcOU6tEM)
