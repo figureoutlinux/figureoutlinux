@@ -17,7 +17,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
-Tirando dúvidas de recens usuários windows que pretendem mudar para distros Linux de acordo com seu propósito.
+Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
 
 ### Alguns vídeos do Youtube:
 - [🔵 Live Debian 11 Bullseye XFCE - Firmware No Free - Híbrido - Com Calamares - Parte 3](https://www.youtube.com/watch?v=BzIn-8l36nU&t=3703s)<br/>
