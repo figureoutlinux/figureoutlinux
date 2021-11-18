@@ -1,27 +1,31 @@
-## Olá! Eu sou o Matheus Fraga 🖐️
+## Olá! Eu sou o juninho apaixonado por Linux 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/FigureoutLinuxOJuninhodoLinux)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/figure.out.linux/?hl=pt-br)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/figureoutlinux/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/figureoutlinux)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+![Figure out Linux GitHub stats](https://github-readme-stats.vercel.app/api?username=figureoutlinux&show_icons=true&theme=dark&count_private=true)
+
+## Tecnologias Linux que uso no meu dia a dia!
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img align="center" alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img align="center" alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+<div style="display: inline_block">
+  <img align="center" alt="nodejs" src="https://starchart.cc/{figureoutlinux}/{repo}.svg" />
+</div><br/>
 
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2021](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+Tirando dúvidas de recens usuários windows que pretendem mudar para distros Linux de acordo com seu propósito.
+
+### Alguns vídeos do Youtube:
+- [🔵 Live Debian 11 Bullseye XFCE - Firmware No Free - Híbrido - Com Calamares - Parte 3](https://www.youtube.com/watch?v=BzIn-8l36nU&t=3703s)<br/>
+- [🔵 Personalizar seu Terminal. Use o oh-my-ZSH ou oh-my-bash](https://www.youtube.com/watch?v=gShUs0i96OU)<br/>
+- [🔵 Kali Linux Proxychains seu IP no Anonimato em modo Dynamic Chain](https://www.youtube.com/watch?v=iTIPxQaIyNI)<br/>
+- [🔵 ProxyChains em modo Random Chain No meu Mint](https://www.youtube.com/watch?v=Tmh1ycpxLJE&t=360s)<br/>
+- [🔵 Kodachi Linux XFCE Versão 8.9.1](https://www.youtube.com/watch?v=9QHT7JYAHvU)<br/>
