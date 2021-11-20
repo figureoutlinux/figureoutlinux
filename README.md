@@ -1,3 +1,4 @@
+
 ## Olá! Eu sou o juninho apaixonado por Linux 🖐️
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/FigureoutLinuxOJuninhodoLinux)
@@ -17,6 +18,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br/>
 
 Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
