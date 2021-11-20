@@ -20,7 +20,7 @@
 </div><br/>
 
 Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
-Formado em tecno eletrônico com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
+Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
 
 ### Alguns vídeos do Youtube:
 - [🔵 Live Debian 11 Bullseye XFCE - Firmware No Free - Híbrido - Com Calamares - Parte 3](https://www.youtube.com/watch?v=BzIn-8l36nU&t=3703s)<br/>
