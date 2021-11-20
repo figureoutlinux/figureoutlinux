@@ -15,9 +15,12 @@
   <img align="center" alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
   <img align="center" alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
 Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
+Formado em tecno eletrônico com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
 
 ### Alguns vídeos do Youtube:
 - [🔵 Live Debian 11 Bullseye XFCE - Firmware No Free - Híbrido - Com Calamares - Parte 3](https://www.youtube.com/watch?v=BzIn-8l36nU&t=3703s)<br/>
