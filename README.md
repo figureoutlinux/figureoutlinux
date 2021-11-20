@@ -8,7 +8,9 @@
 
 
 ![Figure out Linux GitHub stats](https://github-readme-stats.vercel.app/api?username=figureoutlinux&show_icons=true&theme=dark&count_private=true)
+<div>
 
+  
 ## Tecnologias Linux que uso no meu dia a dia!
 
 <div style="display: inline_block">
