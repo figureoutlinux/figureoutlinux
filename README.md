@@ -1,5 +1,5 @@
 
-## 🖐️ Olá! Eu sou o juninho, usuário de Linux (🇧🇷)
+### 🖐️ Olá! Eu sou o juninho, usuário de Linux! Redes sociais (🇧🇷)
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/FigureoutLinuxOJuninhodoLinux)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/figure.out.linux/?hl=pt-br)
@@ -10,15 +10,11 @@ ___
 
 ![Figure out Linux GitHub stats](https://github-readme-stats.vercel.app/api?username=figureoutlinux&show_icons=true&theme=dark&count_private=true)
 
-___
-
- ![Snake animation](https://github.com/figureoutlinux/figureoutlinux/blob/output/github-contribution-grid-snake.svg)
- 
 <div>
 
 ___
  
-## ☑️ Linux e programas que uso no meu dia a dia!
+### ☑️ Linux e programas que uso no meu dia a dia!
 
 <div style="display: inline_block">
   <img align="center" alt="Ubuntu" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -32,12 +28,12 @@ ___
  
  ___
 
- ## ☑️ Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
+ ### ☑️ Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
 Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
 
  ___
  
-## 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
+### 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
 <a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Figure.out.linux-%E2%96%B6%20Subscribe!-red" /></a>
 
 <!-- YOUTUBE:START -->
