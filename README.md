@@ -9,8 +9,7 @@
 
 ![Figure out Linux GitHub stats](https://github-readme-stats.vercel.app/api?username=figureoutlinux&show_icons=true&theme=dark&count_private=true)
 
-  ![Snake animation](https://github.com/figureoutlinux/figureoutlinux/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 <div>
 
   
@@ -38,3 +37,6 @@ Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola feder
 
 
 [![Alt text](https://img.youtube.com/vi/BLcjcOU6tEM/0.jpg)](https://www.youtube.com/watch?v=BLcjcOU6tEM)
+  
+  <!-- YOUTUBE:START -->
+  <!-- YOUTUBE:END -->
