@@ -28,7 +28,7 @@
 Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
 Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
 
-### Alguns vídeos do Youtube:
+### 🎥 Alguns vídeos do Youtube:
 - [🔵 Live Debian 11 Bullseye XFCE - Firmware No Free - Híbrido - Com Calamares - Parte 3](https://www.youtube.com/watch?v=BzIn-8l36nU&t=3703s)<br/>
 - [🔵 Personalizar seu Terminal. Use o oh-my-ZSH ou oh-my-bash](https://www.youtube.com/watch?v=gShUs0i96OU)<br/>
 - [🔵 Kali Linux Proxychains seu IP no Anonimato em modo Dynamic Chain](https://www.youtube.com/watch?v=iTIPxQaIyNI)<br/>
@@ -37,6 +37,9 @@ Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola feder
 
 
 [![Alt text](https://img.youtube.com/vi/BLcjcOU6tEM/0.jpg)](https://www.youtube.com/watch?v=BLcjcOU6tEM)
+ 
+ ## 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
+<a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Dev.Lawyer-%E2%96%B6%20Subscribe!-red" /></a>
   
   <!-- YOUTUBE:START -->
   <!-- YOUTUBE:END -->
