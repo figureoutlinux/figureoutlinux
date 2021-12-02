@@ -8,6 +8,9 @@
 
 
 ![Figure out Linux GitHub stats](https://github-readme-stats.vercel.app/api?username=figureoutlinux&show_icons=true&theme=dark&count_private=true)
+
+  ![Snake animation](https://github.com/figureoutlinux/figureoutlinux/blob/output/github-contribution-grid-snake.svg)
+  
 <div>
 
   
