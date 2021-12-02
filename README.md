@@ -1,19 +1,23 @@
 
-## 🖐️ Olá! Eu sou o juninho, usuário de Linux 
+## 🖐️ Olá! Eu sou o juninho, usuário de Linux (🇧🇷)
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/FigureoutLinuxOJuninhodoLinux)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/figure.out.linux/?hl=pt-br)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/figureoutlinux/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/figureoutlinux)
 
+___
 
 ![Figure out Linux GitHub stats](https://github-readme-stats.vercel.app/api?username=figureoutlinux&show_icons=true&theme=dark&count_private=true)
+
+___
 
  ![Snake animation](https://github.com/figureoutlinux/figureoutlinux/blob/output/github-contribution-grid-snake.svg)
  
 <div>
 
-  
+___
+ 
 ## ☑️ Linux e programas que uso no meu dia a dia!
 
 <div style="display: inline_block">
@@ -25,20 +29,21 @@
   <img align="center" alt="ts" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
+ 
+ ___
 
  ## ☑️ Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
 Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
+
+ ___
  
 ## 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
 <a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Figure.out.linux-%E2%96%B6%20Subscribe!-red" /></a>
 
 <!-- YOUTUBE:START -->
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=j5PORHW28I4)](https://www.youtube.com/watch?v=j5PORHW28I4)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=jBKYwjAkzyc)](https://www.youtube.com/watch?v=jBKYwjAkzyc)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=ZU9oiXJxaAc)](https://www.youtube.com/watch?v=ZU9oiXJxaAc)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=I6fRjlI3tEw)](https://www.youtube.com/watch?v=I6fRjlI3tEw)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=fwhlU8YC3ZE)](https://www.youtube.com/watch?v=fwhlU8YC3ZE)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=cjBPynzRIp4)](https://www.youtube.com/watch?v=cjBPynzRIp4)<!-- YOUTUBE:END -->
+<!-- YOUTUBE:END -->
+ 
+ ___
 
 ### 🎥 Alguns vídeos extras do Youtube:
 - [🔵 Live Debian 11 Bullseye XFCE - Firmware No Free - Híbrido - Com Calamares - Parte 3](https://www.youtube.com/watch?v=BzIn-8l36nU&t=3703s)<br/>
