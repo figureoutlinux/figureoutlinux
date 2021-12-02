@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o juninho apaixonado por Linux 🖐️
+## 🖐️Olá! Eu sou o juninho apaixonado por Linux 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/FigureoutLinuxOJuninhodoLinux)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/figure.out.linux/?hl=pt-br)
