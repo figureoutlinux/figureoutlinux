@@ -27,19 +27,22 @@
 
 Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
 Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
+ 
+ ## 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
+<a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Figure out Linux-%E2%96%B6%20Subscribe!-red" /></a>
+  
+<!-- YOUTUBE:START -->
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=j5PORHW28I4&t=343s)](https://www.youtube.com/watch?v=j5PORHW28I4&t=343s)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=jBKYwjAkzyc&t=15s)](https://www.youtube.com/watch?v=jBKYwjAkzyc&t=15s)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=ZU9oiXJxaAc)](https://www.youtube.com/watch?v=ZU9oiXJxaAc)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=I6fRjlI3tEw)](https://www.youtube.com/watch?v=I6fRjlI3tEw)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=fwhlU8YC3ZE&t=310s)](https://www.youtube.com/watch?v=fwhlU8YC3ZE&t=310s)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=cjBPynzRIp4)](https://www.youtube.com/watch?v=cjBPynzRIp4)<!-- YOUTUBE:END -->
 
-### 🎥 Alguns vídeos do Youtube:
+### 🎥 Alguns vídeos extras do Youtube:
 - [🔵 Live Debian 11 Bullseye XFCE - Firmware No Free - Híbrido - Com Calamares - Parte 3](https://www.youtube.com/watch?v=BzIn-8l36nU&t=3703s)<br/>
 - [🔵 Personalizar seu Terminal. Use o oh-my-ZSH ou oh-my-bash](https://www.youtube.com/watch?v=gShUs0i96OU)<br/>
 - [🔵 Kali Linux Proxychains seu IP no Anonimato em modo Dynamic Chain](https://www.youtube.com/watch?v=iTIPxQaIyNI)<br/>
 - [🔵 ProxyChains em modo Random Chain No meu Mint](https://www.youtube.com/watch?v=Tmh1ycpxLJE&t=360s)<br/>
 - [🔵 Kodachi Linux XFCE Versão 8.9.1](https://www.youtube.com/watch?v=9QHT7JYAHvU)<br/>
 
-
-[![Alt text](https://img.youtube.com/vi/BLcjcOU6tEM/0.jpg)](https://www.youtube.com/watch?v=BLcjcOU6tEM)
- 
- ## 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
-<a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Dev.Lawyer-%E2%96%B6%20Subscribe!-red" /></a>
-  
-  <!-- YOUTUBE:START -->
-  <!-- YOUTUBE:END -->
