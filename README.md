@@ -14,7 +14,7 @@
 <div>
 
   
-## Linux e programas que uso no meu dia a dia!
+## ☑️ Linux e programas que uso no meu dia a dia!
 
 <div style="display: inline_block">
   <img align="center" alt="Ubuntu" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -26,7 +26,7 @@
   <img align="center" alt="CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
-Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
+ ## ☑️ Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
 Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
  
  ## 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
