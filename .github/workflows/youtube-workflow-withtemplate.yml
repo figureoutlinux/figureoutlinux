@@ -14,7 +14,7 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           commit_message: "Updated readme with the latest youtube data"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPmM6RAkfC0CY2gGudIhWQA"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_XRbJwaHSMLUZWFGndlGTQ"
           # * custom_tags * possibilita obtermos uma variavel com base 
           # no resultado obtido na linha de feed_list acima. Por exemplo, se você 
           # acessar o endereço acima no navegador, vai acessar o XML que o YouTube fornece
