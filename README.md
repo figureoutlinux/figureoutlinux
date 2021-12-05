@@ -29,7 +29,7 @@ ___
  ___
 
  ### ☑️ Tirando dúvidas de usuários recém chegados do windows que pretendem mudar para distros Linux de acordo com seu propósito.
-Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
+Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola federativa. Curso em redes fibra ótica pelo Senac e Redes TCP/IP, Curso em eletrônica pelo Senai, Curso webdesigner e programação caracterizado em php e html
 
  ___
  
