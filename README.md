@@ -14,7 +14,7 @@ ___
 
 ___
  
-### ☑️ Linux e programas que uso no meu dia a dia!
+### ☑️ Linux e programas que uso no meu dia a dia com muita satisfação!
 
 <div style="display: inline_block">
   <img align="center" alt="Ubuntu" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
