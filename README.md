@@ -37,12 +37,12 @@ Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola feder
 <a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Figure.out.linux-%E2%96%B6%20Subscribe!-red" /></a>
 
 <!-- YOUTUBE:START -->
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=16UQqjREDoY)](https://www.youtube.com/watch?v=16UQqjREDoY)
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=01Ukq0IgCoM)](https://www.youtube.com/watch?v=01Ukq0IgCoM)
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=4ZSuTdrkn7o)](https://www.youtube.com/watch?v=4ZSuTdrkn7o)
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=hfyBztnSrJg)](https://www.youtube.com/watch?v=hfyBztnSrJg)
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=1oh5rkxX774)](https://www.youtube.com/watch?v=1oh5rkxX774)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=t8-GNdhklQ4)](https://www.youtube.com/watch?v=t8-GNdhklQ4)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=O4G3CXpT2BI)](https://www.youtube.com/watch?v=O4G3CXpT2BI)<!-- YOUTUBE:END -->
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=t8-GNdhklQ4)](https://www.youtube.com/watch?v=t8-GNdhklQ4)<!-- YOUTUBE:END -->
  
  ___
 
