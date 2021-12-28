@@ -34,7 +34,7 @@ Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola feder
  ___
  
 ### 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
-<a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/figureoutlinux-%E2%96%B6%20Subscribe!-red" /></a>
+<a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Figure.out.linux-%E2%96%B6%20Subscribe!-red" /></a>
 
 <!-- YOUTUBE:START -->
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=kxZ4M4GYX7A)](https://www.youtube.com/watch?v=kxZ4M4GYX7A)
