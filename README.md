@@ -33,16 +33,8 @@ Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola feder
 
  ___
  
-### 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
+### 🎥 YouTube Videos | Últimos Vídeos no YouTube Acesse o Canal!
 <a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Figure.out.linux-%E2%96%B6%20Subscribe!-red" /></a>
-
-<!-- YOUTUBE:START -->
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=NKREVsEJHCk)](https://www.youtube.com/watch?v=NKREVsEJHCk)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=qhIj330EayY)](https://www.youtube.com/watch?v=qhIj330EayY)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=ENKhFYl9sMM)](https://www.youtube.com/watch?v=ENKhFYl9sMM)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=6rKbHWkNdkQ)](https://www.youtube.com/watch?v=6rKbHWkNdkQ)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=HiXg98wpySY)](https://www.youtube.com/watch?v=HiXg98wpySY)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=zlOKorXmkAM)](https://www.youtube.com/watch?v=zlOKorXmkAM)<!-- YOUTUBE:END -->
  
  ___
 
