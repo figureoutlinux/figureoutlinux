@@ -33,7 +33,6 @@ Formado em Técnico Eletrônico e Eng. com estágios no exterior em escola feder
 
  ___
  
-<<<<<<< HEAD
 ### 🎥 YouTube Videos | Últimos Vídeos no YouTube Acesse o Canal!
 <a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Figure.out.linux-%E2%96%B6%20Subscribe!-red" /></a>
  ___
