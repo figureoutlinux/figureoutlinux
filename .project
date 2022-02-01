@@ -3,6 +3,7 @@
 	<name>figureoutlinux</name>
 	<comment></comment>
 	<projects>
+		<project>RemoteSystemsTempFiles</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
