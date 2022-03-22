@@ -1,4 +1,4 @@
-<img title="Subscribe" src="https://figureoutlinux.github.io/linux/header.png" /></a> 
+<img src="https://figureoutlinux.github.io/linux/header.png" /></a> 
 <br />
 #
 
